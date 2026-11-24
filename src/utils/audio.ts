@@ -1,0 +1,2 @@
+let context:AudioContext|undefined;
+export function tone(frequency=440,duration=.12,type:OscillatorType='sine'){try{context??=new AudioContext();const osc=context.createOscillator();const gain=context.createGain();osc.type=type;osc.frequency.value=frequency;gain.gain.setValueAtTime(.045,context.currentTime);gain.gain.exponentialRampToValueAtTime(.001,context.currentTime+duration);osc.connect(gain);gain.connect(context.destination);osc.start();osc.stop(context.currentTime+duration);}catch{/* Audio is optional when browser policy blocks it. */}}

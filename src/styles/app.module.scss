@@ -1,0 +1,6 @@
+.shell {
+  isolation: isolate;
+  min-height: 100vh;
+}
+
+.secretButton{border:0;background:none;color:#d8c477;opacity:.18;cursor:pointer;font-size:12px;padding:5px;transition:opacity .2s}.secretButton:hover,.secretButton:focus-visible{opacity:.9}.secretModal{width:min(520px,100%);padding:14px;line-height:0}.secretImage{display:block;width:100%;height:auto;max-height:80vh;object-fit:contain;border-radius:9px}
