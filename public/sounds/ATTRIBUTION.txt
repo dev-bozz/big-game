@@ -1,0 +1,13 @@
+Audio credits
+
+The following sounds are from the Bruni AFX collection “Звуки из телепередачи Кто хочет стать миллионером?” and are labeled by the source as Creative Commons Attribution-ShareAlike (CC BY-SA):
+
+- “Правильный ответ на самый первый вопрос” — https://bruniafx.ru/noise/pravilnyy-otvet-na-samyy-pervyy-vopros
+- “Звук неправильного ответа в Кто хочет стать миллионером?” — https://bruniafx.ru/noise/zvuk-nepravilnogo-otveta-v-kto-hochet-stat-millionerom
+
+Source collection: https://bruniafx.ru/sound/sounds-from-the-tv-show-who-wants-to-be-a-millionaire
+
+Attribution requested by the source:
+“Bruni AFX Base: Шоу и передачи” — Distributor: “Bruni AFX” (https://bruniafx.ru/), under the Creative Commons Attribution-ShareAlike license.
+
+Timer tick: “Clock Tick” by Mildly Useless, dedicated to the public domain under CC0 1.0 — https://mildlyuseless.com/res/foley-clock-tick. The 140 ms one-shot is played once per second by the game timer.
