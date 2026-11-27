@@ -4,3 +4,4 @@
 }
 
 .secretButton{border:0;background:none;color:#d8c477;opacity:.18;cursor:pointer;font-size:12px;padding:5px;transition:opacity .2s}.secretButton:hover,.secretButton:focus-visible{opacity:.9}.secretModal{width:min(520px,100%);padding:14px;line-height:0}.secretImage{display:block;width:100%;height:auto;max-height:80vh;object-fit:contain;border-radius:9px}
+.cheatButton{border:1px solid #d8c47755;border-radius:14px;background:#d8c47712;color:#e7d68f;font-size:9px;font-weight:800;letter-spacing:.12em;cursor:pointer;padding:4px 8px;opacity:.45;transition:opacity .2s,background .2s}.cheatButton:hover,.cheatButton:focus-visible{opacity:1;background:#d8c47725}.cheatButton:disabled{cursor:default;opacity:.2}
